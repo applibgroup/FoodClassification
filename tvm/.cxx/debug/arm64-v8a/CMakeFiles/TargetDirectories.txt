@@ -1,0 +1,3 @@
+C:/Users/User/Downloads/FoodClassifier_final/FoodClassifier/tvm/.cxx/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/FoodClassifier_final/FoodClassifier/tvm/.cxx/debug/arm64-v8a/CMakeFiles/tvm4j_runtime_packed.dir
+C:/Users/User/Downloads/FoodClassifier_final/FoodClassifier/tvm/.cxx/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

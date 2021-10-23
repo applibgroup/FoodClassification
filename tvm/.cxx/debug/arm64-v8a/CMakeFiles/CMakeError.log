@@ -1,0 +1,286 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+clang: error: unable to execute command: program not executable
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/User/AppData/Local/Huawei/Sdk/native/2.1.1.21/llvm/bin/clang++.exe 
+Build flags: -g;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-fno-addrsig;-Wa,--noexecstack;-Wformat;-Werror=format-security;;-std=c++14;-Oz;-frtti
+Id flags:  
+
+The output was:
+1
+clang++: error: unable to execute command: program not executable
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
